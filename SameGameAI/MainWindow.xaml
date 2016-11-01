@@ -1,0 +1,28 @@
+﻿<Window x:Name="MainWindow1" x:Class="SameGameAI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Same Game AI" Height="400" Width="500.738" SizeToContent="Width">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="371*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="122*"/>
+        </Grid.ColumnDefinitions>
+        <GroupBox Header="Results&#xA;" Margin="10,10,4,273" Grid.Column="2" RenderTransformOrigin="0.5,0.5">
+            <GroupBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </GroupBox.RenderTransform>
+            <TextBlock x:Name="resultsDisplay" Margin="0,-13,-2,-2" TextWrapping="Wrap"><Run Text="Distance:"/><LineBreak/><Run/></TextBlock>
+        </GroupBox>
+        <Button x:Name="OpenFile" Content="Start" RenderTransformOrigin="0.502,0.268" Click="openFileClick" Margin="21,0,10,10" Height="25" VerticalAlignment="Bottom" Grid.Column="2"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="349" Margin="10,10,0,0" VerticalAlignment="Top" Width="349">
+            <Canvas x:Name="GameWindow" Height="347" VerticalAlignment="Top" Background="Black"/>
+        </Border>
+    </Grid>
+</Window>
+

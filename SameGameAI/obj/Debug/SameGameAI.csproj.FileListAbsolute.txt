@@ -1,0 +1,13 @@
+c:\users\jacob\documents\visual studio 2013\Projects\SameGameAI\SameGameAI\bin\Debug\SameGameAI.exe.config
+c:\users\jacob\documents\visual studio 2013\Projects\SameGameAI\SameGameAI\bin\Debug\SameGameAI.exe
+c:\users\jacob\documents\visual studio 2013\Projects\SameGameAI\SameGameAI\bin\Debug\SameGameAI.pdb
+c:\users\jacob\documents\visual studio 2013\Projects\SameGameAI\SameGameAI\obj\Debug\SameGameAI.csprojResolveAssemblyReference.cache
+c:\users\jacob\documents\visual studio 2013\Projects\SameGameAI\SameGameAI\obj\Debug\MainWindow.baml
+c:\users\jacob\documents\visual studio 2013\Projects\SameGameAI\SameGameAI\obj\Debug\MainWindow.g.cs
+c:\users\jacob\documents\visual studio 2013\Projects\SameGameAI\SameGameAI\obj\Debug\App.g.cs
+c:\users\jacob\documents\visual studio 2013\Projects\SameGameAI\SameGameAI\obj\Debug\SameGameAI_MarkupCompile.cache
+c:\users\jacob\documents\visual studio 2013\Projects\SameGameAI\SameGameAI\obj\Debug\SameGameAI.g.resources
+c:\users\jacob\documents\visual studio 2013\Projects\SameGameAI\SameGameAI\obj\Debug\SameGameAI.Properties.Resources.resources
+c:\users\jacob\documents\visual studio 2013\Projects\SameGameAI\SameGameAI\obj\Debug\SameGameAI.csproj.GenerateResource.Cache
+c:\users\jacob\documents\visual studio 2013\Projects\SameGameAI\SameGameAI\obj\Debug\SameGameAI.exe
+c:\users\jacob\documents\visual studio 2013\Projects\SameGameAI\SameGameAI\obj\Debug\SameGameAI.pdb
